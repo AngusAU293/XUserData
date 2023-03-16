@@ -6,7 +6,7 @@ setup(
     description='A fake user data generator.',
     author='Angus Stuart',
     author_email='angus.stuart293@proton.me',
-    url='https://github.com',
+    url='https://github.com/AngusAU293/XUserData',
     packages=find_packages(),
     install_requires=[
         'random'
